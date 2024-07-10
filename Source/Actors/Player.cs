@@ -268,7 +268,7 @@ public class Player : Actor, IHaveModels, IHaveSprites, IRidePlatforms, ICastPoi
 		{
 			// Rotate Camera
 			{
-				var invertX = Save.Instance.InvertCamera == Save.InvertCameraOptions.X || Save.Instance.InvertCamera == Save.InvertCameraOptions.Both;
+				var invertX = Save.Instance.InvertCamera == Save.InvertCameraOptions.X || Save.Instance.InvertCamera == Save.InvertCameraOptions.Ambos;
 				var rot = new Vec2(cameraTargetForward.X, cameraTargetForward.Y).Angle();
 				rot -= Controls.Camera.Value.X * Time.Delta * 4 * (invertX ? -1 : 1);
 
@@ -279,7 +279,7 @@ public class Player : Actor, IHaveModels, IHaveSprites, IRidePlatforms, ICastPoi
 			// Move Camera in / out
 			if (Controls.Camera.Value.Y != 0)
 			{
-				var invertY = Save.Instance.InvertCamera == Save.InvertCameraOptions.Y || Save.Instance.InvertCamera == Save.InvertCameraOptions.Both;
+				var invertY = Save.Instance.InvertCamera == Save.InvertCameraOptions.Y || Save.Instance.InvertCamera == Save.InvertCameraOptions.Ambos;
 				cameraTargetDistance += Controls.Camera.Value.Y * Time.Delta * (invertY ? -1 : 1);
 				cameraTargetDistance = Calc.Clamp(cameraTargetDistance, 0, 1);
 			}

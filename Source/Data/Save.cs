@@ -10,10 +10,10 @@ public class Save
 
 	public enum InvertCameraOptions
 	{
-		None,
+		Não,
 		X,
 		Y,
-		Both
+		Ambos
 	}
 
 	/// <summary>
@@ -79,12 +79,12 @@ public class Save
 	/// <summary>
 	/// Invert the camera in given directions
 	/// </summary>
-	public InvertCameraOptions InvertCamera { get; set; } = InvertCameraOptions.None;
+	public InvertCameraOptions InvertCamera { get; set; } = InvertCameraOptions.Não;
 
 	/// <summary>
 	/// Current Language ID
 	/// </summary>
-	public string Language { get; set; } = "english";
+	public string Language { get; set; } = "portuguese";
 
 	/// <summary>
 	/// Records for each level
