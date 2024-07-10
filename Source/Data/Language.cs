@@ -90,7 +90,7 @@ public class Language
 			if (Assets.Languages.TryGetValue(Save.Instance.Language, out var lang))
 				return lang;
 
-			if (Assets.Languages.TryGetValue("English", out lang))
+			if (Assets.Languages.TryGetValue("Portuguese", out lang))
 				return lang;
 
 			if (Assets.Languages.Count > 0)
