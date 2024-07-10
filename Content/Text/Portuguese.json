@@ -11,7 +11,7 @@
 		"Restart": "Reiniciar",
 		"Start": "Começar",
 		"Exit": "Sair",
-		"RestartLevel": "Clear Save & Restart Level",
+		"RestartLevel": "Limpar Save e Reiniciar o Nível",
 		"PauseTitle": "Pausado",
 		"PauseResume": "Resumir",
 		"PauseRetry": "Retentar",
@@ -19,7 +19,7 @@
 		"PauseSaveQuit": "Salvar e sair",
 		"OptionsTitle": "Opções",
 		"OptionsFullscreen": "Tela Cheia",
-		"OptionsZGuide": "Z-Guide",
+		"OptionsZGuide": "Guia-Z",
 		"OptionsTimer": "Cronômetro",
 		"OptionsBGM": "BGM",
 		"OptionsSFX": "SFX",
@@ -159,17 +159,17 @@
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny3_01_g1",
-				"Text": "You know I always appreciate\nyou thinkin' of me..."
+				"Text": "Você sabe que eu aprecio você\nestar pensando em mim..."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny3_02_g2",
-				"Text": "But next time, could you\nmake it a bit warmer here?"
+				"Text": "Mas, da próxima vez, você\npoderia fazer ser um\npouco mais quente aqui?"
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny3_03_m1",
-				"Text": "That's not how I remember it."
+				"Text": "Não é assim que me lembro disso."
 			}
 		],
 
