@@ -311,22 +311,22 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo3_01_t1",
-				"Text": "So I hear you're writing a book..."
+				"Text": "Ouvi dizer que cê tá escrevendo um livro..."
 			},
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo3_02_t2",
-				"Text": "Am I in it?"
+				"Text": "Eu tô nele?"
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/theo3_03_m1",
-				"Text": "No, it's not really like that,\nit's more metaphorical."
+				"Text": "Não, não é assim,\né algo mais metafórico."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo3_04_t3",
-				"Text": "Is Alex in it?"
+				"Text": "Alex tá nele?"
 			},
 			{
 				"Face": "madeline/Upset",
@@ -335,12 +335,12 @@
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo3_05_t4",
-				"Text": "She's totally in it."
+				"Text": "Ela com certeza tá."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo3_06_t5",
-				"Text": "That is SO adorable."
+				"Text": "Isso é TÃO adorável."
 			},
 			{
 				"Face": "madeline/Angry",
