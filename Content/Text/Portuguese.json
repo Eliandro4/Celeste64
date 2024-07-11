@@ -177,7 +177,7 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_01_t1",
-				"Text": "Strawberry!!"
+				"Text": "Morango!!"
 			},
 			{
 				"Face": "madeline/Happy",
@@ -187,57 +187,57 @@
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/theo1_03_m2",
-				"Text": "It's so good to see you."
+				"Text": "É tão bom te ver."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo1_04_t2",
-				"Text": "Likewise, stranger."
+				"Text": "Verdade, estranha."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/theo1_05_m3",
-				"Text": "I forgot to respond\nto you again, didn't I?"
+				"Text": "Esqueci de te responder\nde novo, né?"
 			},
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_06_t3",
-				"Text": "No no, it's chill."
+				"Text": "Não não, fica fria aí."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo1_07_t4",
-				"Text": "This is why I hooked you\nand Alex up before I left."
+				"Text": "É por isso que eu te juntei\ncom a Alex antes de sair."
 			},
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo1_08_t5",
-				"Text": "Now I get all my Maddy updates\nvia my neurotic sister."
+				"Text": "Agora, consigo todas as atualizações suas\npela minha irmã neurótica."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo1_09_t6",
-				"Text": "She calls me every Saturday\nat 2:00, like clockwork."
+				"Text": "Ela me liga todo Sabado\nàs 2:00, como um relógio."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/theo1_10_m4",
-				"Text": "Clever plan!"
+				"Text": "Plano inteligente!"
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/theo1_11_m5",
-				"Text": "Alex is... the best."
+				"Text": "Alex é... a melhor."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo1_12_t7",
-				"Text": "You two are so gay."
+				"Text": "Vocês duas são tão gays."
 			},
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_13_t8",
-				"Text": "I love that for you."
+				"Text": "Eu te amo por isso."
 			}
 		],
 		"Theo2": [
