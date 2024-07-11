@@ -570,7 +570,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "Já que tu me achou,\naqui vai uma dica:"
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
@@ -617,7 +617,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "Já que tu me achou,\naqui vai uma dica:"
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
@@ -627,7 +627,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_04",
-				"Text": "O \"PULO SKID\" te faz pular\nmais alto que pulos normais.\nDê uma chance!"
+				"Text": "O \"PULO SKID\" te faz pular\nmais alto que pulos normais.\nTenta aí!"
 			},
 			{
 				"Face": "signpost",
@@ -639,7 +639,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_01",
-				"Text": "Secret Sign\nDo NOT read"
+				"Text": "Placa Secreta\nNÃO leia"
 			},
 			{
 				"Face": "signpost",
@@ -649,27 +649,27 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "But since you found me,\nhere's a tip:"
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_05",
-				"Text": "You know that you can DASH,\nand you know that you can JUMP..."
+				"Text": "Você sabe que pode dar DASH,\ne você pode PULAR..."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_06",
-				"Text": "But did you know that you can DASH JUMP?\nJust DASH and then JUMP, genius."
+				"Text": "Mas você sabia qeu você pode fazer um PULO EM DISPARADA?\nÉ só dar DASH e depois PULAR, gênio."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_07",
-				"Text": "The DASH JUMP is a long, low leap.\nGive it a shot!"
+				"Text": "O PULO EM DISPARADA é longo, e baixo.\nTenta aí!"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/snark_01",
-				"Text": "Or don't.\nI'm a sign, not a cop."
+				"Text": "ou não.\nSou uma placa, não um policial."
 			}
 		],
 		"Sign4": [
