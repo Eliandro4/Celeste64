@@ -607,7 +607,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_01",
-				"Text": "Secret Sign\nDo NOT read"
+				"Text": "Placa Secreta\nNÃO leia"
 			},
 			{
 				"Face": "signpost",
@@ -617,22 +617,22 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "But since you found me,\nhere's a tip:"
+				"Text": "Já que tu me achou,\naqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_05",
-				"Text": "To SKID JUMP, run full speed,\nthen turn around quickly and\nsmash that JUMP button!"
+				"Text": "Para fazer um \"PULO SKID\", cora a toda velocidade,\nse vire rapidamente e \"smasha\" o botão de PULO!"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_04",
-				"Text": "The SKID JUMP takes you\nhigher than a regular old JUMP.\nGive it a shot!"
+				"Text": "O \"PULO SKID\" te faz pular\nmais alto que pulos normais.\nDê uma chance!"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_11",
-				"Text": "And if you find more signs\ndo NOT read them."
+				"Text": "E se achar mais placas,\nNÃO leia elas."
 			}
 		],
 		"Sign3": [
