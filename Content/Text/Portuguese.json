@@ -560,7 +560,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_01",
-				"Text": "Secret Sign\nDo NOT read"
+				"Text": "Placa Secreta\nNÃO leia"
 			},
 			{
 				"Face": "signpost",
@@ -570,12 +570,12 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "But since you found me,\nhere's a tip:"
+				"Text": "Já que tu me achou,\naqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_02",
-				"Text": "The RIGHT ANALOG STICK controls the camera."
+				"Text": "O ANALÓGICO DIREITO controla a camera."
 			},
 			{
 				"Face": "signpost",
@@ -585,22 +585,22 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_05",
-				"Text": "Look, I didn't say it was a GOOD tip."
+				"Text": "Veja, Eu não disse que a dica seria boa."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_07",
-				"Text": "But be sure to try zooming in and out\nwith UP and DOWN on the RIGHT STICK."
+				"Text": "Tenha certeza de aumentar ou diminuir o zoom\ncolocando o ANALÓGICO DIREITO pra cima ou pra baixo."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_06",
-				"Text": "Sometimes the key to a tricky jump\nis finding the right perspective."
+				"Text": "Algumas vezes, a chave para um pulo\né achar a perspectiva certa."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/snark_02",
-				"Text": "Now SCRAM!"
+				"Text": "Agora, VAZA!"
 			}
 		],
 		"Sign2": [
