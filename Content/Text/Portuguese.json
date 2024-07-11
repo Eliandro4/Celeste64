@@ -31,62 +31,62 @@
 			{
 				"Face": "granny/Laugh",
 				"Voice": "granny/granny1_01_g1",
-				"Text": "It's so cold out here\nI can see my farts."
+				"Text": "Aqui está tão frio,\nposso até ver meus peidos."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny1_02_m1",
-				"Text": "It's nice to see you too, Granny."
+				"Text": "Prazer em te ver, Vovó."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_03_g2",
-				"Text": "Hah. Hey kiddo, welcome back.\nIt's been a while."
+				"Text": "Hah. Ei, bem-vinda de volta.\nJá faz um tempo."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny1_04_m2",
-				"Text": "Yeah, I've been busy."
+				"Text": "É, Eu estive ocupada."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_05_g3",
-				"Text": "I've heard!"
+				"Text": "Eu ouvi!"
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_06_g4",
-				"Text": "Little miss fancy pants here is writing a BOOK!"
+				"Text": "A pequenina aqui está escrevendo um LIVRO!"
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny1_07_m3",
-				"Text": "Oh, that.\nThat's not a big thing..."
+				"Text": "Oh, isso.\nNão é grande coisa..."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_08_g5",
-				"Text": "Uh huh. Is that why you're here?\nNervous about the big project?"
+				"Text": "ãh hã. Por isso cê tá aqui?\nNervosa sobre o grande projeto?"
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny1_09_m4",
-				"Text": "No, I'm weirdly zen about the book."
+				"Text": "Não, eu tô estranhamento calma sobre o livro."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny1_10_m5",
-				"Text": "Besides, can't I just revisit a beloved memory\nwithout being interrogated?"
+				"Text": "Além disso, não posso revisitar uma memória\nquerida sem ser interrogada?"
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_11_g6",
-				"Text": "Alright alright, I know there's\nmore to it, but I won't pry."
+				"Text": "Certo certo, Sei que tem mais\nque isso, mas num vou me meter."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_12_g7",
-				"Text": "You have fun reminiscing then."
+				"Text": "Divirta-se relembrando."
 			}
 		],
 		"Granny2": [
