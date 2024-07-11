@@ -709,67 +709,67 @@
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_01",
-				"Text": "Celeste 64: Fragments of the Mountain"
+				"Text": "Celeste 64: Fragmentos da Montanha"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_02",
-				"Text": "Created in a week(ish) by the Celeste team"
+				"Text": "Feito em uma semana por \"Celeste team\""
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_03",
-				"Text": "Maddy Thorson, Noel Berry, Amora B., Pedro Medeiros,\nLena Raine, Heidy Motta, and Kevin Regamey and\nJeff Tangsoc of Power Up Audio"
+				"Text": "Maddy Thorson, Noel Berry, Amora B., Pedro Medeiros,\nLena Raine, Heidy Motta, e Kevin Regamey e\nJeff Tangsoc da \"Power Up Audio\""
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_04",
-				"Text": "Special Thanks"
+				"Text": "Agradeciemntos Especiais"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_05",
-				"Text": "Maddy would like to thank Sara and Z\nfor their love and support."
+				"Text": "Maddy gostaria de agradecer Sara e Z\npelo seu amor e suporte."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_06",
-				"Text": "Noel thanks Yvonne\nfor bein' chill and cool."
+				"Text": "Noel agradece Yvonne\npor ser relaxado e legal."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_07",
-				"Text": "Amora would like to thank\nKiki, Zac, Rose, and Phil,\nfor being so loving and fun."
+				"Text": "Amora gostaria de agradecer\nKiki, Zac, Rose, e Phil,\npor serem tão amorosos e divertidos."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_08",
-				"Text": "Pedro would like to thank Isa for saving his git\nmerges, Pedro Damasceno and everyone from\nXinela for helping him learn 3D!"
+				"Text": "Pedro gostaria de agradecer Isa por salvar seus git\nmerges, Pedro Damasceno e todos da\nXinela por o ajudar a aprender 3D!"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_09",
-				"Text": "Jeff would like to thank\nhis good friend Stelmack."
+				"Text": "Jeff gostaria de agradecer\nseu bom amigo Stelmack."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_10",
-				"Text": "Kevin thanks Zoe for her boundless\nsupport, even when it comes to\nsilly projects like this one."
+				"Text": "Kevin agradece Zoe por seu \nsuporte, mesmo sendo projetos\nbobos como este."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_11",
-				"Text": "Lena would like to thank\nBobbin for being a cat."
+				"Text": "Lena gostaria de agradecer\nBobbin por ser um gato."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_12",
-				"Text": "Heidy would like to thank\nBrian for being awesome\nand Furi for being purrfect!"
+				"Text": "Heidy gostaria de agradecer\nBrian por ser incrível\ne Furi for ser \"purrfeita\"!"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "credits/credits_13",
-				"Text": "And lastly, thank you to Celeste players everywhere.\nYour love and passion for our little game\ncontinues to inspire us."
+				"Text": "E por último, agradecer a todos você, Jogadores de Celeste.\nSeu amor e carinho por nosso joguinho\ncontinua a nos inspirar."
 			}
 		]
 	}
