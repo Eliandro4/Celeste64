@@ -93,17 +93,17 @@
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_01_g1",
-				"Text": "C'mon, what's really bothering you?"
+				"Text": "Vamo lá, o que tá te incomodando?"
 			},
 			{
 				"Face": "madeline/Angry",
 				"Voice": "madeline/granny2_02_m1",
-				"Text": "It's fine. I've got it under control."
+				"Text": "Eu tô bem. está tudo sob controle."
 			},
 			{
 				"Face": "granny/Laugh",
 				"Voice": "granny/granny2_03_g2",
-				"Text": "Some things never change."
+				"Text": "Algumas coisas nunca mudam."
 			},
 			{
 				"Face": "madeline/Upset",
@@ -112,47 +112,47 @@
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny2_04_m2",
-				"Text": "It's just that...\nI'm taking a big step."
+				"Text": "É só que...\nestou fazendo um grande passo."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny2_05_m3",
-				"Text": "I know it's a good step.\nIt's what I want..."
+				"Text": "Sei que é um bom passo.\nIsso é oque eu quero..."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny2_06_m4",
-				"Text": "...But it still feels like...\n...like I'm stepping off a cliff."
+				"Text": "...Mas eu me sinto como...\n...como se estivesse\ncaindo de um penhasco."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_07_g3",
-				"Text": "Sounds like a leap of faith."
+				"Text": "Isso me parece falta de confiança."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny2_08_m5",
-				"Text": "Yeah... I guess it is."
+				"Text": "Sim... Acho que é isso."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_09_g4",
-				"Text": "You've always been brave."
+				"Text": "Você sempre tem sido corajosa."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_10_g5",
-				"Text": "But have you checked in\nwith that other Part of You?"
+				"Text": "Mas você já checou\ncom sua Outra Parte?"
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny2_11_m6",
-				"Text": "I guess maybe that's why I'm here."
+				"Text": "Acho que é por isso que estou aqui."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_12_g6",
-				"Text": "Where is that little weirdo, anyways?"
+				"Text": "De qulquer forma, cadê aquele esquisitinho?"
 			}
 		],
 		"Granny3": [
