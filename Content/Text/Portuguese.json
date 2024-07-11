@@ -676,7 +676,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_03",
-				"Text": "Lonely Sign\nPlease read"
+				"Text": "Placa Solitária\n Por favor leia"
 			},
 			{
 				"Face": "signpost",
@@ -686,22 +686,22 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_08",
-				"Text": "Thanks for noticing me.\nHere's a tip:"
+				"Text": "Obridado por me perceber.\nAqui vai uma dica:"
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_05",
-				"Text": "If you want to look UP, zoom\nthe camera AAALLLLL the way in."
+				"Text": "Se quiser olhar por CIMA, dimua\nCOMPLETAMENTE o zoom da sua camera."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_10",
-				"Text": "Who knows what you'll see up there."
+				"Text": "Quem sabe o que você vai ver la em cima."
 			},
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_11",
-				"Text": "I surely don't know, for\nI am but a humble signpost."
+				"Text": "Eu certamente não sei,\nsou apenas uma placa."
 			}
 		],
 
