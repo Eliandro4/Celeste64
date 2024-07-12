@@ -352,17 +352,17 @@
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_01_m1",
-				"Text": "Hey."
+				"Text": "Ei."
 			},
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy1_02_b1",
-				"Text": "Hey."
+				"Text": "Ei."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_03_m2",
-				"Text": "How're you holding up?"
+				"Text": "Como você está?"
 			},
 			{
 				"Face": "baddy/UncertainA",
@@ -371,37 +371,37 @@
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy1_04_b2",
-				"Text": "Are we really\ngoing to do this?"
+				"Text": "A gente realmente\nvai fazer isso?"
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_05_m3",
-				"Text": "Yeah."
+				"Text": "Sim."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_06_m4",
-				"Text": "I think we are."
+				"Text": "Eu acho que avamos."
 			},
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy1_07_b3",
-				"Text": "You always make us do hard things."
+				"Text": "Você sempre nos faz fazer coisas difíceis."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_08_m5",
-				"Text": "Yeah, I guess I do."
+				"Text": "Sim, acho que sim."
 			},
 			{
 				"Face": "baddy/Angry",
 				"Voice": "badeline/baddy1_09_b4",
-				"Text": "Why can't you just be happy?"
+				"Text": "Por que você não pode simplesmente ser feliz?"
 			},
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy1_10_b5",
-				"Text": "Why go through all\nthis effort, and pain,\nand... CHANGE."
+				"Text": "Por que passar por todo\nesse esforço, e dor,\ne... MUDANÇA."
 			},
 			{
 				"Face": "madeline/Upset",
@@ -410,47 +410,47 @@
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_11_m6",
-				"Text": "I don't know if I have\na satisfying answer for you."
+				"Text": "Eu não sei se tenho uma\nresposta que te satisfaça.."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_12_m7",
-				"Text": "I can't keep trying to JUSTIFY this,\nit just goes around in circles."
+				"Text": "Não posso continuar tentando JUSTIFICAR isso,\nas coisas ficam girando em círculos."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_13_m8",
-				"Text": "At the end of the day, it feels right."
+				"Text": "No fim do dia, isso parece ser o certo."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy1_14_m9",
-				"Text": "That's all I really have for you."
+				"Text": "Isso é tudo que tenho a dizer."
 			},
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy1_15_b6",
-				"Text": "I suppose that's as\ngood a reason as any."
+				"Text": "Suponho que esse seja um motivo tão\nbom quanto qualquer outro."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_16_m10",
-				"Text": "I want you to come with me."
+				"Text": "Eu quero que você venha comigo."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/baddy1_17_m11",
-				"Text": "Please, I'll make space for you."
+				"Text": "Por favor, eu vou te dar espaço."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_18_m12",
-				"Text": "You're allowed to be afraid."
+				"Text": "Você tem permissão para ficar assustada."
 			},
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy1_19_b7",
-				"Text": "I know that we need this."
+				"Text": "Eu sei que nós precisamos disso."
 			},
 			{
 				"Face": "baddy/UncertainB",
@@ -459,7 +459,7 @@
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy1_20_b8",
-				"Text": "Thanks for coming to get me."
+				"Text": "Obrigada por ter vindo me buscar."
 			},
 			{
 				"Face": "baddy/UncertainB",
@@ -468,7 +468,7 @@
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy1_21_b9",
-				"Text": "Let's... let's do it."
+				"Text": "Vamos... Vamos fazer isso."
 			}
 		],
 		"Baddy2": [
