@@ -31,7 +31,7 @@
 			{
 				"Face": "granny/Laugh",
 				"Voice": "granny/granny1_01_g1",
-				"Text": "Aqui está tão frio,\nposso até ver meus peidos."
+				"Text": "Aqui está tão frio,\nposso até mesmo ver meus peidos."
 			},
 			{
 				"Face": "madeline/Default",
@@ -46,7 +46,7 @@
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/granny1_04_m2",
-				"Text": "É, Eu estive ocupada."
+				"Text": "É, eu estive ocupada."
 			},
 			{
 				"Face": "granny/Default",
@@ -61,12 +61,12 @@
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny1_07_m3",
-				"Text": "Oh, isso.\nNão é grande coisa..."
+				"Text": "Ah, isso.\nNão é grande coisa..."
 			},
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_08_g5",
-				"Text": "ãh hã. Por isso cê tá aqui?\nNervosa sobre o grande projeto?"
+				"Text": "ãh hã. Por isso que você tá aqui?\nNervosa sobre o grande projeto?"
 			},
 			{
 				"Face": "madeline/Default",
@@ -81,7 +81,7 @@
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny1_11_g6",
-				"Text": "Certo certo, Sei que tem mais\nque isso, mas num vou me meter."
+				"Text": "Certo, certo, Sei que tem mais\nque isso, mas num vou me meter."
 			},
 			{
 				"Face": "granny/Default",
@@ -98,7 +98,7 @@
 			{
 				"Face": "madeline/Angry",
 				"Voice": "madeline/granny2_02_m1",
-				"Text": "Eu tô bem. está tudo sob controle."
+				"Text": "Eu tô bem. tá tudo sob controle."
 			},
 			{
 				"Face": "granny/Laugh",
@@ -142,12 +142,12 @@
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny2_10_g5",
-				"Text": "Mas você já checou\ncom sua Outra Parte?"
+				"Text": "Mas você já conversou\ncom a sua Outra Parte?"
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/granny2_11_m6",
-				"Text": "Acho que é por isso que estou aqui."
+				"Text": "Acho que é por isso que eu estou aqui."
 			},
 			{
 				"Face": "granny/Default",
@@ -159,7 +159,7 @@
 			{
 				"Face": "granny/Default",
 				"Voice": "granny/granny3_01_g1",
-				"Text": "Você sabe que eu aprecio você\nestar pensando em mim..."
+				"Text": "Você sabe que eu aprecio o fato\nde você estar pensando em mim..."
 			},
 			{
 				"Face": "granny/Default",
@@ -177,7 +177,7 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_01_t1",
-				"Text": "Morango!!"
+				"Text": "Moranguinho!!"
 			},
 			{
 				"Face": "madeline/Happy",
@@ -202,7 +202,7 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_06_t3",
-				"Text": "Não não, fica fria aí."
+				"Text": "Não, não, fica fria aí."
 			},
 			{
 				"Face": "theo/Smug",
@@ -237,7 +237,7 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo1_13_t8",
-				"Text": "Eu te amo por isso."
+				"Text": "Eu amo isso em você."
 			}
 		],
 		"Theo2": [
@@ -249,7 +249,7 @@
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo2_02_t2",
-				"Text": "Mas consegui umas fotos bombásticas."
+				"Text": "Mas eu consegui umas fotos bombásticas."
 			},
 			{
 				"Face": "madeline/Happy",
@@ -269,7 +269,7 @@
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo2_06_t4",
-				"Text": "A, sim, a primeira de muitas!"
+				"Text": "Sim, a primeira de muitas!"
 			},
 			{
 				"Face": "theo/Default",
@@ -311,7 +311,7 @@
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo3_01_t1",
-				"Text": "Ouvi dizer que cê tá escrevendo um livro..."
+				"Text": "Ouvi dizer que você tá escrevendo um livro..."
 			},
 			{
 				"Face": "theo/Proud",
@@ -326,7 +326,7 @@
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo3_04_t3",
-				"Text": "Alex tá nele?"
+				"Text": "A Alex tá nele?"
 			},
 			{
 				"Face": "madeline/Upset",
@@ -381,7 +381,7 @@
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy1_06_m4",
-				"Text": "Eu acho que avamos."
+				"Text": "Eu acho que nós vamos."
 			},
 			{
 				"Face": "baddy/UncertainA",
@@ -510,7 +510,7 @@
 			{
 				"Face": "baddy/Resolved",
 				"Voice": "badeline/baddy2_08_b4",
-				"Text": "É bom refezer seus passos\nantes de uma grande decisão."
+				"Text": "É bom refazer seus passos\nantes de uma grande decisão."
 			},
 			{
 				"Face": "madeline/Default",
@@ -585,7 +585,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_05",
-				"Text": "Veja, Eu não disse que a dica seria boa."
+				"Text": "Veja, eu não disse que a dica seria boa."
 			},
 			{
 				"Face": "signpost",
@@ -595,7 +595,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_06",
-				"Text": "Algumas vezes, a chave para um pulo\né achar a perspectiva certa."
+				"Text": "Algumas vezes, a chave para um bom pulo\né achar a perspectiva certa."
 			},
 			{
 				"Face": "signpost",
@@ -632,7 +632,7 @@
 			{
 				"Face": "signpost",
 				"Voice": "sign/general_11",
-				"Text": "E se achar mais placas,\nNÃO leia elas."
+				"Text": "E se achar mais placas,\nNÃO as leia."
 			}
 		],
 		"Sign3": [
