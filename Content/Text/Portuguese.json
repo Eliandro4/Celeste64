@@ -522,37 +522,37 @@
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy3_01_b1",
-				"Text": "It's still scary, but..."
+				"Text": "Isso continua assustador, mas..."
 			},
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy3_02_b2",
-				"Text": "I think I'm starting\nto feel excited about this."
+				"Text": "Acho que estou começando\na ficar empolgada com isso."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/baddy3_03_m1",
-				"Text": "It IS exciting!"
+				"Text": "Isso é TÃO empolgante!"
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy3_04_m2",
-				"Text": "We've always wanted this."
+				"Text": "A gente sempre quis isso."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy3_05_m3",
-				"Text": "We just couldn't\narticulate it until now."
+				"Text": "a gente só não tinha conseguido\nfazer isso até agora."
 			},
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy3_06_b3",
-				"Text": "Yeah, you're right."
+				"Text": "Sim, você tá certa."
 			},
 			{
 				"Face": "baddy/Resolved",
 				"Voice": "badeline/baddy3_07_b4",
-				"Text": "Maybe... maybe it'll be okay."
+				"Text": "Talvez... talvez tudo dê certo."
 			}
 		],
 
