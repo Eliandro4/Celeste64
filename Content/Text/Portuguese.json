@@ -244,67 +244,67 @@
 			{
 				"Face": "theo/Tired",
 				"Voice": "theo/theo2_01_t1",
-				"Text": "Climbing up this tower\nwas NOT easy for me."
+				"Text": "Subir essa torre\nNÃO foi fácil pra mim."
 			},
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo2_02_t2",
-				"Text": "But I got some bomb shots."
+				"Text": "Mas consegui umas fotos bombásticas."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/theo2_03_m1",
-				"Text": "That's great!"
+				"Text": "Isso é ótimo!"
 			},
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo2_04_t3",
-				"Text": "These'll really shine\nin the gallery."
+				"Text": "Essas realmente irão\nbrilhar na galeria."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/theo2_05_m2",
-				"Text": "You're doing a gallery show!?"
+				"Text": "Você está fazendo uma exposição em uma galeria!?"
 			},
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo2_06_t4",
-				"Text": "Oh yeah, hopefully the first of many!"
+				"Text": "A, sim, a primeira de muitas!"
 			},
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo2_07_t5",
-				"Text": "It's just pics from my travels."
+				"Text": "São só fotas das minhas viagens."
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo2_08_t7",
-				"Text": "With a theme of\n'Humanity Amongst Urban Isolation'"
+				"Text": "Com o tema sendo\n\"Humanidade Em Meio ao Isolamento Urbano\""
 			},
 			{
 				"Face": "theo/Default",
 				"Voice": "theo/theo2_09_t8",
-				"Text": "It's these soft, colorful portraits of\nrad people I've met in my travels..."
+				"Text": "São esses retratos coloridos de pessoas\nradicais que conheci nas minhas viagens..."
 			},
 			{
 				"Face": "theo/Upset",
 				"Voice": "theo/theo2_10_t9",
-				"Text": "...contrasted with the harsh\ncapitalist brutality of the modern city."
+				"Text": "...contrastam com a brutalidade\ncapitalista da cidade moderna."
 			},
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/theo2_11_m3",
-				"Text": "Theo!! That sounds so... artsy!"
+				"Text": "Theo!! Isso parece tão... artístico!"
 			},
 			{
 				"Face": "theo/Smug",
 				"Voice": "theo/theo2_12_t10",
-				"Text": "Don't sound so surprised."
+				"Text": "Não fique tão surpresa."
 			},
 			{
 				"Face": "theo/Proud",
 				"Voice": "theo/theo2_13_t11",
-				"Text": "I contain multitudes."
+				"Text": "Eu tenho multidões."
 			}
 		],
 		"Theo3": [
