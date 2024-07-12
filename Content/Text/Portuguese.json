@@ -475,47 +475,47 @@
 			{
 				"Face": "madeline/Happy",
 				"Voice": "madeline/baddy2_01_m1",
-				"Text": "It's nice to be back."
+				"Text": "É bom estar de volta."
 			},
 			{
 				"Face": "baddy/UncertainB",
 				"Voice": "badeline/baddy2_02_b1",
-				"Text": "Yeah, even this messed up\ncity still feels like home."
+				"Text": "Sim, até mesmo essa\ncidade maluca ainda parece um lar."
 			},
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy2_03_b2",
-				"Text": "I don't remember it being\nso floaty and... 3D though."
+				"Text": "Eu não lembro disso ser\ntão flutuante e... 3D."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy2_04_m2",
-				"Text": "Memories aren't perfect."
+				"Text": "Memorias não são perfeitas."
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy2_05_m3",
-				"Text": "And yeah, maybe I've been\nplaying too many old games lately."
+				"Text": "E sim, talvez eu esteja jogando\nmuitos jogos antigos ultimamente."
 			},
 			{
 				"Face": "baddy/UncertainA",
 				"Voice": "badeline/baddy2_06_b3",
-				"Text": "Feeling nostalgic, are we?"
+				"Text": "Se sentino nostalgica, né?"
 			},
 			{
 				"Face": "madeline/Upset",
 				"Voice": "madeline/baddy2_07_m4",
-				"Text": "I guess I'm trying to\nreconnect with childhood Maddy."
+				"Text": "Eu acho que estou tentando me\nreconectar com a Madeline criança."
 			},
 			{
 				"Face": "baddy/Resolved",
 				"Voice": "badeline/baddy2_08_b4",
-				"Text": "It's nice to retrace your\nsteps before a big decision."
+				"Text": "É bom refezer seus passos\nantes de uma grande decisão."
 			},
 			{
 				"Face": "madeline/Default",
 				"Voice": "madeline/baddy2_09_m5",
-				"Text": "Yeah, it helps me keep perspective."
+				"Text": "Sim, isso me ajuda a manter a perspectiva."
 			}
 		],
 		"Baddy3": [
