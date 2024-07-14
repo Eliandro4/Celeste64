@@ -1,0 +1,873 @@
+{
+	"ID": "portuguese",
+	"Label": "Português",
+	"Font": "Renogare",
+	"Strings": {
+		"Confirm": "Confirmar",
+		"Cancel": "Cancelar",
+		"Back": "Voltar",
+		"Continue": "Continuar",
+		"Restart": "Reiniciar",
+		"Start": "Começar",
+		"Exit": "Sair",
+		"Load": "Carregar",
+		"Create": "Criar",
+		"Delete": "Apagar",
+		"Copy": "Copiar",
+		"Bind": "Vincular",
+		"Reset": "Reiniciar",
+		"Clear": "Limpar",
+		"RestartLevel": "Limpar Save e Reiniciar o Nível",
+		"PauseTitle": "Pausado",
+		"PauseResume": "Resumir",
+		"SkipCutscene": "Pular Cutscene",
+		"SkipCutscene.desc": "Pula a Cutscene Atual",
+		"PauseResume.desc": "Continuar Jogando",
+		"PauseRetry": "Retentar",
+		"PauseRetry.desc": "Reinicia o Mapa Atual",
+		"PauseOptions": "Opções",
+		"PauseOptions.desc": "Muda as Configs do Jogo",
+		"PauseSaveQuit": "Salvar e sair",
+		"PauseSaveQuit.desc": "Salvar e Sair para a Tela de Título",
+		"PauseSaves": "Saves",
+		"PauseSaves.desc": "Abre a Tela de Seleção de Saves",
+		"PauseModsMenu" : "Mods",
+		"PauseModsMenu.desc" : "Abre o Menu de Mods",
+		"OptionsTitle": "Opções",
+		"OptionsFullscreen": "Tela Cheia",
+		"OptionsFullscreen.desc": "Controla se o Jogo Está em Tela Cheia ou Modo Janela",
+		"OptionsZGuide": "Guia-Z",
+		"OptionsZGuide.desc": "Ativa o Guia-Z de baixo do Jogador",
+		"OptionsTimer": "Cronômetro",
+		"OptionsTimer.desc": "Ativa um Cronometro no Jogo",
+		"OptionsBGM": "BGM",
+		"OptionsBGM.desc": "Controla o Volume da Música",
+		"OptionsSFX": "SFX",
+		"OptionsSFX.desc": "Controla o Volumo dos Efeitos Sonoros",
+		"OptionsInvertCamera": "Inverter Camera",
+		"OptionsInvertCamera.desc": "Controla se o X ou Y da Camera estão invertidos",
+		"OptionsVSync": "Sincronização Vertical",
+		"OptionsVSync.desc": "Ativa/Desativa a Sincronização Vertical",
+		"OptionsResolution": "Resolução",
+		"OptionsResolution.desc": "Muda a Resolução do Jogo",
+		"OptionsQuickStart": "Ativar Incialização Rápida",
+		"OptionsQuickStart.desc": "Enquanto ativado, segure CTRL na incialização pra inciar o último nível jogado",
+		"OptionsToggleOn": "LIGADO",
+		"OptionsToggleOff": "DESLIG.",
+		"OptionsYes": "Sim",
+		"OptionsNo": "Não",
+		"OptionsLanguage": "Idioma",
+		"KeyboardConfig": "Config. do Teclado",
+		"KeyboardConfig.desc": "Revincular Controles do Teclado/Mouse",
+		"ControllerConfig": "Config. do Controle",
+		"ControllerConfig.desc": "Revincular Controles do Controle",
+		"ControlsHeaderGame": "Jogo",
+		"ControlsHeaderMenu": "Menu (Requere pelo menos uma vinculação)",
+		"ControlsHeaderAdvanced": "Avançado",
+		"ControlsResetToDefault": "Reiniciar para o Padrão",
+		"PressToBind": "Pressione qualquer botão para vincular com \"{0}\"",
+		"Jump": "Pular",
+		"Dash": "Dash",
+		"Climb": "Escalar",
+		"Pause": "Pausar",
+		"MoveDown": "Andar pra Baixo",
+		"MoveUp": "Andar pra Cima",
+		"MoveRight": "Andar pra Direita",
+		"MoveLeft": "Andar pra Esquerda",
+		"CameraDown": "Descer a Camera",
+		"CameraUp": "Subir a Camera",
+		"CameraRight": "Camera pra Direita",
+		"CameraLeft": "Camera pra Esquerda",
+		"CreateFile": "Criar Save",
+		"CopyFile": "Copiar Save",
+		"DeleteFile": "Apagar Save",
+		"ResetBindings": "Reiniciar as Vinculações",
+		"ClearBindings": "Limpar as Vinculações",
+		"MenuDown": "Menu Baixo",
+		"MenuUp": "Menu Cima",
+		"MenuRight": "Menu Direita",
+		"MenuLeft": "Menu Esquerda",
+		"DebugMenu": "Menu Debug",
+		"FullScreen": "Tela Cheia",
+		"ReloadAssets": "Recarregar Assets",
+		"Skin": "Skin",
+		"Skin.desc": "Selecione a Skin para Usar",
+		"SaveCreateFile": "Criar novo save?" ,
+		"SaveDeleteFile": "Deletar esse save?" ,
+		"SaveDeleteDefaultFile": "Não dá para apagar completamente o save padrão:'{0}'. Reiniciar ele ao invés disso?",
+		"SaveCopyFile": "Copiar esse save?" ,
+		"FujiOptions": "Opções do Fuji...",
+		"FujiOptions.desc": "Configurar as Opções do Fuji Mod Loader",
+		"FujiWriteLog": "Escrever Log",
+		"FujiWriteLog.desc": "Controla se o Jogo escreve um arquivo de Log",
+		"FujiEnableDebugMenu": "Menu de Debug (F6)",
+		"FujiEnableDebugMenu.desc": "Ative o Menu de Debug apertando F6",
+		"FujiAdditionalLog": "Log Adicional",
+		"FujiAdditionalLog.desc": "Ativas a saídas de mais informações no log, o que talvez seja útil para devs",
+		"FujiAutoReload": "Auto-Recarregamento",
+		"FujiAutoReload.desc": "Se habilidado, auto-recarrega os mods se um arquivo for alterado",
+		"FujiFailedToLoad": "Falha em carregar os seguintes mods:",
+		"FujiOpenLogFile": "Abrir o Log",
+		"FujiOpenLogFile.desc": "Abrir a Log do Jogo para mais informações",
+		"FujiContinueToMods": "Continuar",
+		"FujiContinueToMods.desc": "Continuar para o Menu dos Mods",
+		"FujiOverworldModSlideNote": "Use Cima/Baixo para filtrar por mod",
+		"FujiLoaderStatusRegistering": "Registrando modulos...",
+		"FujiLoaderStatusNormal": "Carregando assets: {0} ({1} de {2})",
+		"FujiOpenUserPath": "Abrir a Pasta do Jogo",
+		"FujiOpenUserPath.desc": "Abre a pasta do Fuji",
+		"FailedToLoadMods": "Falha em carregar {0} mods. Olhe o Menu dos Mod para mais detalhes.",
+		"ModEnabled": "Habilitado",
+		"ModOptions": "Opções de Mod",
+		"ConfirmDisableMod": "Continuar e Disabilitar Mod",
+		"ModSafeDisableErrorMessage": "Este mod não pode ser desabilitado por que isso desabilitaria o mapa que você está.\nTente ir ao menu principal primeiro.",
+		"QuitToMainMenu": "Sair para o Menu Principal"
+	},
+	"Dialog": {
+		"Granny1": [
+			{
+				"Face": "granny/Laugh",
+				"Voice": "granny/granny1_01_g1",
+				"Text": "Aqui está tão frio,\nposso até mesmo ver meus peidos."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/granny1_02_m1",
+				"Text": "Prazer em te ver, Vovó."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_03_g2",
+				"Text": "Hah. Ei, bem-vinda de volta.\nJá faz um tempo."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/granny1_04_m2",
+				"Text": "É, eu estive ocupada."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_05_g3",
+				"Text": "Eu ouvi!"
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_06_g4",
+				"Text": "A pequenina aqui está escrevendo um LIVRO!"
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny1_07_m3",
+				"Text": "Ah, isso.\nNão é grande coisa..."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_08_g5",
+				"Text": "ãh hã. Por isso que você tá aqui?\nNervosa sobre o grande projeto?"
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/granny1_09_m4",
+				"Text": "Não, eu tô estranhamento calma sobre o livro."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny1_10_m5",
+				"Text": "Além disso, não posso revisitar uma memória\nquerida sem ser interrogada?"
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_11_g6",
+				"Text": "Certo, certo, Sei que tem mais\nque isso, mas num vou me meter."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny1_12_g7",
+				"Text": "Divirta-se relembrando."
+			}
+		],
+		"Granny2": [
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny2_01_g1",
+				"Text": "Vamo lá, o que tá te incomodando?"
+			},
+			{
+				"Face": "madeline/Angry",
+				"Voice": "madeline/granny2_02_m1",
+				"Text": "Eu tô bem. tá tudo sob controle."
+			},
+			{
+				"Face": "granny/Laugh",
+				"Voice": "granny/granny2_03_g2",
+				"Text": "Algumas coisas nunca mudam."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Text": "..."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny2_04_m2",
+				"Text": "É só que...\nestou fazendo um grande passo."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/granny2_05_m3",
+				"Text": "Sei que é um bom passo.\nIsso é oque eu quero..."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny2_06_m4",
+				"Text": "...Mas eu me sinto como...\n...como se estivesse\ncaindo de um penhasco."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny2_07_g3",
+				"Text": "Isso me parece falta de confiança."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny2_08_m5",
+				"Text": "Sim... Acho que é isso."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny2_09_g4",
+				"Text": "Você sempre tem sido corajosa."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny2_10_g5",
+				"Text": "Mas você já conversou\ncom a sua Outra Parte?"
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/granny2_11_m6",
+				"Text": "Acho que é por isso que eu estou aqui."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny2_12_g6",
+				"Text": "De qulquer forma, cadê aquele esquisitinho?"
+			}
+		],
+		"Granny3": [
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny3_01_g1",
+				"Text": "Você sabe que eu aprecio o fato\nde você estar pensando em mim..."
+			},
+			{
+				"Face": "granny/Default",
+				"Voice": "granny/granny3_02_g2",
+				"Text": "Mas, da próxima vez, você\npoderia fazer ser um\npouco mais quente aqui?"
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/granny3_03_m1",
+				"Text": "Não é assim que me lembro disso."
+			}
+		],
+
+		"Theo1": [
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo1_01_t1",
+				"Text": "Moranguinho!!"
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo1_02_m1",
+				"Text": "Theo!"
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo1_03_m2",
+				"Text": "É tão bom te ver."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo1_04_t2",
+				"Text": "Verdade, estranha."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/theo1_05_m3",
+				"Text": "Esqueci de te responder\nde novo, né?"
+			},
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo1_06_t3",
+				"Text": "Não, não, fica fria aí."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo1_07_t4",
+				"Text": "É por isso que eu te juntei\ncom a Alex antes de sair."
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo1_08_t5",
+				"Text": "Agora, consigo todas as atualizações suas\npela minha irmã neurótica."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo1_09_t6",
+				"Text": "Ela me liga todo Sabado\nàs 2:00, como um relógio."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo1_10_m4",
+				"Text": "Plano inteligente!"
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/theo1_11_m5",
+				"Text": "Alex é... a melhor."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo1_12_t7",
+				"Text": "Vocês duas são tão gays."
+			},
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo1_13_t8",
+				"Text": "Eu amo isso em você."
+			}
+		],
+		"Theo2": [
+			{
+				"Face": "theo/Tired",
+				"Voice": "theo/theo2_01_t1",
+				"Text": "Subir essa torre\nNÃO foi fácil pra mim."
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo2_02_t2",
+				"Text": "Mas eu consegui umas fotos bombásticas."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo2_03_m1",
+				"Text": "Isso é ótimo!"
+			},
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo2_04_t3",
+				"Text": "Essas realmente irão\nbrilhar na galeria."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo2_05_m2",
+				"Text": "Você está fazendo uma exposição em uma galeria!?"
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo2_06_t4",
+				"Text": "Sim, a primeira de muitas!"
+			},
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo2_07_t5",
+				"Text": "São só fotas das minhas viagens."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo2_08_t7",
+				"Text": "Com o tema sendo\n\"Humanidade Em Meio ao Isolamento Urbano\""
+			},
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo2_09_t8",
+				"Text": "São esses retratos coloridos de pessoas\nradicais que conheci nas minhas viagens..."
+			},
+			{
+				"Face": "theo/Upset",
+				"Voice": "theo/theo2_10_t9",
+				"Text": "...contrastam com a brutalidade\ncapitalista da cidade moderna."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/theo2_11_m3",
+				"Text": "Theo!! Isso parece tão... artístico!"
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo2_12_t10",
+				"Text": "Não fique tão surpresa."
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo2_13_t11",
+				"Text": "Eu tenho multidões."
+			}
+		],
+		"Theo3": [
+			{
+				"Face": "theo/Default",
+				"Voice": "theo/theo3_01_t1",
+				"Text": "Ouvi dizer que você tá escrevendo um livro..."
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo3_02_t2",
+				"Text": "Eu tô nele?"
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/theo3_03_m1",
+				"Text": "Não, não é assim,\né algo mais metafórico."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo3_04_t3",
+				"Text": "A Alex tá nele?"
+			},
+			{
+				"Face": "madeline/Upset",
+				"Text": "..."
+			},
+			{
+				"Face": "theo/Proud",
+				"Voice": "theo/theo3_05_t4",
+				"Text": "Ela com certeza tá."
+			},
+			{
+				"Face": "theo/Smug",
+				"Voice": "theo/theo3_06_t5",
+				"Text": "Isso é TÃO adorável."
+			},
+			{
+				"Face": "madeline/Angry",
+				"Text": "..."
+			}
+		],
+
+		"Baddy1": [
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy1_01_m1",
+				"Text": "Ei."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy1_02_b1",
+				"Text": "Ei."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_03_m2",
+				"Text": "Como você está?"
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Text": "..."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy1_04_b2",
+				"Text": "A gente realmente\nvai fazer isso?"
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_05_m3",
+				"Text": "Sim."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy1_06_m4",
+				"Text": "Eu acho que nós vamos."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy1_07_b3",
+				"Text": "Você sempre nos faz fazer coisas difíceis."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_08_m5",
+				"Text": "Sim, acho que sim."
+			},
+			{
+				"Face": "baddy/Angry",
+				"Voice": "badeline/baddy1_09_b4",
+				"Text": "Por que você não pode simplesmente ser feliz?"
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy1_10_b5",
+				"Text": "Por que passar por todo\nesse esforço, e dor,\ne... MUDANÇA."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Text": "..."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_11_m6",
+				"Text": "Eu não sei se tenho uma\nresposta que te satisfaça.."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_12_m7",
+				"Text": "Não posso continuar tentando JUSTIFICAR isso,\nas coisas ficam girando em círculos."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy1_13_m8",
+				"Text": "No fim do dia, isso parece ser o certo."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy1_14_m9",
+				"Text": "Isso é tudo que tenho a dizer."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy1_15_b6",
+				"Text": "Suponho que esse seja um motivo tão\nbom quanto qualquer outro."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy1_16_m10",
+				"Text": "Eu quero que você venha comigo."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/baddy1_17_m11",
+				"Text": "Por favor, eu vou te dar espaço."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy1_18_m12",
+				"Text": "Você tem permissão para ficar assustada."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy1_19_b7",
+				"Text": "Eu sei que nós precisamos disso."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Text": "..."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy1_20_b8",
+				"Text": "Obrigada por ter vindo me buscar."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Text": "..."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy1_21_b9",
+				"Text": "Vamos... Vamos fazer isso."
+			}
+		],
+		"Baddy2": [
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/baddy2_01_m1",
+				"Text": "É bom estar de volta."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy2_02_b1",
+				"Text": "Sim, até mesmo essa\ncidade maluca ainda parece um lar."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy2_03_b2",
+				"Text": "Eu não lembro disso ser\ntão flutuante e... 3D."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy2_04_m2",
+				"Text": "Memorias não são perfeitas."
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy2_05_m3",
+				"Text": "E sim, talvez eu esteja jogando\nmuitos jogos antigos ultimamente."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy2_06_b3",
+				"Text": "Se sentino nostalgica, né?"
+			},
+			{
+				"Face": "madeline/Upset",
+				"Voice": "madeline/baddy2_07_m4",
+				"Text": "Eu acho que estou tentando me\nreconectar com a Madeline criança."
+			},
+			{
+				"Face": "baddy/Resolved",
+				"Voice": "badeline/baddy2_08_b4",
+				"Text": "É bom refazer seus passos\nantes de uma grande decisão."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy2_09_m5",
+				"Text": "Sim, isso me ajuda a manter a perspectiva."
+			}
+		],
+		"Baddy3": [
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy3_01_b1",
+				"Text": "Isso continua assustador, mas..."
+			},
+			{
+				"Face": "baddy/UncertainB",
+				"Voice": "badeline/baddy3_02_b2",
+				"Text": "Acho que estou começando\na ficar empolgada com isso."
+			},
+			{
+				"Face": "madeline/Happy",
+				"Voice": "madeline/baddy3_03_m1",
+				"Text": "Isso é TÃO empolgante!"
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy3_04_m2",
+				"Text": "A gente sempre quis isso."
+			},
+			{
+				"Face": "madeline/Default",
+				"Voice": "madeline/baddy3_05_m3",
+				"Text": "a gente só não tinha conseguido\nfazer isso até agora."
+			},
+			{
+				"Face": "baddy/UncertainA",
+				"Voice": "badeline/baddy3_06_b3",
+				"Text": "Sim, você tá certa."
+			},
+			{
+				"Face": "baddy/Resolved",
+				"Voice": "badeline/baddy3_07_b4",
+				"Text": "Talvez... talvez tudo dê certo."
+			}
+		],
+
+		"Sign1": [
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_01",
+				"Text": "Placa Secreta\nNÃO leia"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/ellipses_01",
+				"Text": "..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_03",
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_02",
+				"Text": "O ANALÓGICO DIREITO controla a camera."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/ellipses_01",
+				"Text": "..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_05",
+				"Text": "Olha, eu não disse que a dica seria boa."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_07",
+				"Text": "Tenha certeza de aumentar ou diminuir o zoom\ncolocando o ANALÓGICO DIREITO pra cima ou pra baixo."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_06",
+				"Text": "Algumas vezes, a chave para um bom pulo\né achar a perspectiva certa."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/snark_02",
+				"Text": "Agora, VAZA!"
+			}
+		],
+		"Sign2": [
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_01",
+				"Text": "Placa Secreta\nNÃO leia"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/ellipses_01",
+				"Text": "..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_03",
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_05",
+				"Text": "Para fazer um \"PULO SKID\", cora a toda velocidade,\nse vire rapidamente e \"smasha\" o botão de PULO!"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_04",
+				"Text": "O \"PULO SKID\" te faz pular\nmais alto que pulos normais.\nTenta aí!"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_11",
+				"Text": "E se achar mais placas,\nNÃO as leia."
+			}
+		],
+		"Sign3": [
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_01",
+				"Text": "Placa Secreta\nNÃO leia"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/ellipses_01",
+				"Text": "..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_03",
+				"Text": "Mas já que tu me achou,\naqui vai uma dica:"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_05",
+				"Text": "Você sabe que pode dar DASH,\ne você pode PULAR..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_06",
+				"Text": "Mas tu sabia que cê pode fazer um PULO EM DISPARADA?\nÉ só dar DASH e depois PULAR, gênia"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_07",
+				"Text": "O PULO EM DISPARADA é longo, e baixo.\nTenta aí!"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/snark_01",
+				"Text": "ou não.\nSou uma placa, não um policial."
+			}
+		],
+		"Sign4": [
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_03",
+				"Text": "Placa Solitária\n Por favor leia"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/ellipses_01",
+				"Text": "..."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_08",
+				"Text": "Obridado por me perceber.\nAqui vai uma dica:"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_05",
+				"Text": "Se quiser olhar por CIMA, diminua\nCOMPLETAMENTE o zoom da sua camera."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_10",
+				"Text": "Quem sabe o que você vai ver la em cima."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "sign/general_11",
+				"Text": "Eu certamente não sei,\nsou apenas uma placa."
+			}
+		],
+
+		"CreditsSign": [
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_01",
+				"Text": "Celeste 64: Fragmentos da Montanha"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_02",
+				"Text": "Feito em uma semana por \"Celeste team\""
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_03",
+				"Text": "Maddy Thorson, Noel Berry, Amora B., Pedro Medeiros,\nLena Raine, Heidy Motta, e Kevin Regamey e\nJeff Tangsoc da \"Power Up Audio\""
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_04",
+				"Text": "Agradeciemntos Especiais"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_05",
+				"Text": "Maddy gostaria de agradecer Sara e Z\npelo seu amor e suporte."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_06",
+				"Text": "Noel agradece Yvonne\npor ser relaxado e legal."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_07",
+				"Text": "Amora gostaria de agradecer\nKiki, Zac, Rose, e Phil,\npor serem tão amorosos e divertidos."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_08",
+				"Text": "Pedro gostaria de agradecer Isa por salvar seus git\nmerges, Pedro Damasceno e todos da\nXinela por o ajudar a aprender 3D!"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_09",
+				"Text": "Jeff gostaria de agradecer\nseu bom amigo Stelmack."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_10",
+				"Text": "Kevin agradece Zoe por seu \nsuporte, mesmo sendo projetos\nbobos como este."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_11",
+				"Text": "Lena gostaria de agradecer\nBobbin por ser um gato."
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_12",
+				"Text": "Heidy gostaria de agradecer\nBrian por ser incrível\ne Furi for ser \"purrfeita\"!"
+			},
+			{
+				"Face": "signpost",
+				"Voice": "credits/credits_13",
+				"Text": "E por último, agradecer a todos você, Jogadores de Celeste.\nSeu amor e carinho por nosso joguinho\ncontinua a nos inspirar."
+			}
+		]
+	}
+}
