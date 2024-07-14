@@ -3,7 +3,9 @@
 bin
 obj
 build
+build.sh
 Buildo.sh
+release/
 *.user
 Content/Map_Test/autosave
 Content/Maps/autosave
